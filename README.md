@@ -1,7 +1,14 @@
 # DCASE
 7K Non speech sound dataset
 Here I have implemented a CNN model for classification of non-speech sounds into 7 classes   
-I have also corrected class imbalance   
+I have also corrected class imbalance  
+- Test Loss: 0.5746 
+- Test Accuracy: 0.8248  
+- Precision: 0.8391  
+- Recall: 0.8248  
+- F1 Score: 0.8269  
+![image](https://github.com/user-attachments/assets/440a291b-700d-4d5d-b4db-fb6cede5b480)
+
 
 Used library: pytorch,scipy  
 References:  
